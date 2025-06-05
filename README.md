@@ -101,5 +101,5 @@ cd backend
 npm install
 
 ### 4. Start the server
-npm run start for node 
+npm run start for node &&&
 npm run dev for nodemon
