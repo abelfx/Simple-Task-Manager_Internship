@@ -1,0 +1,20 @@
+POST http://localhost:3000/api/addtasks
+Content-Type: application/json
+
+{
+    "title": "Make Bunna"
+}
+
+###
+GET http://localhost:3000/api/tasks?status=completed
+
+###
+PUT http://localhost:3000/tasks/api/d1646a16-1492-412d-8719-b5df559cf792
+Content-Type: application/json
+
+{
+    "title": "make shiro"
+}
+
+###
+DELETE http://localhost:3000/tasks/api/23b43434-5d5d-421e-9120-0c21b898e6f9
