@@ -6,15 +6,17 @@ Content-Type: application/json
 }
 
 ###
-GET http://localhost:3000/api/tasks?status=completed
+GET http://localhost:3000/api/tasks
 
 ###
-PUT http://localhost:3000/tasks/api/d1646a16-1492-412d-8719-b5df559cf792
+PUT http://localhost:3000/api/tasks/c745a2b9-bce7-4adc-ba64-0665b42852aa
+// allows to change task title and also completion status
 Content-Type: application/json
 
 {
-    "title": "make shiro"
+    "title": "make shiro",
+    "completed": true
 }
 
 ###
-DELETE http://localhost:3000/tasks/api/23b43434-5d5d-421e-9120-0c21b898e6f9
+DELETE http://localhost:3000/api/tasks/c745a2b9-bce7-4adc-ba64-0665b42852aa
