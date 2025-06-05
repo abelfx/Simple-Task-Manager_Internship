@@ -46,6 +46,8 @@ Supports optional filtering by status.
 
 ```
 
+![displayCompletedTasks](https://github.com/user-attachments/assets/899f763b-6bff-4f90-8261-6bcc73eff54e)
+
 ### `POST /api/tasks`
 
 ```json
@@ -64,6 +66,8 @@ Supports optional filtering by status.
   "completed": true
 }
 ```
+![image](https://github.com/user-attachments/assets/fcc4a7c7-198c-47a8-9c55-166123e4744f)
+
 
 ### `DELETE /tasks/:id`
 
@@ -78,6 +82,8 @@ Supports optional filtering by status.
   }
 }
 ```
+![image](https://github.com/user-attachments/assets/544d36af-ec18-405b-90cd-b4f3259cfadb)
+
 
 ### Technologies Used
   - Express.js
