@@ -85,12 +85,12 @@ Supports optional filtering by status.
 ![image](https://github.com/user-attachments/assets/544d36af-ec18-405b-90cd-b4f3259cfadb)
 
 
-### Technologies Used
+# Technologies Used
   - Express.js
   - UUID
   - CORS
 
-### How to Install
+# How to Install
 
 ### 1. Clone the repository
 
