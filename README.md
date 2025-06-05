@@ -92,14 +92,14 @@ Supports optional filtering by status.
 
 ### How to Install
 
-# 1. Clone the repository
+### 1. Clone the repository
 
-# 2. Navigate into the project directory
+### 2. Navigate into the project directory
 cd backend
 
-# 3. Install dependencies
+### 3. Install dependencies
 npm install
 
-# 4. Start the server
-npm start for node 
-npm dev for nodemon
+### 4. Start the server
+npm run start for node 
+npm run dev for nodemon
